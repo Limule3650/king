@@ -57,14 +57,14 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Venocyber_Tech.sendMessage(Pair_Code_By_Venocyber_Tech.user.id, { text: 'VENOCYBER-MD;;;' + b64data });
 
                let VENOCYBER_MD_TEXT = `
-┌───〈*_Pair Code By RAPHAEL-MD TECH_*〉───◆
+┌───〈 *_Pair Code By RAPHAEL-MD TECH_* 〉───◆
 │╭─────────────···▸
 ┴│▸
-⬡│▸*_Made With ❤️_*
-⬡│▸*_Remember to remove VENOCYBER-MD;;; part and leave eyjubl...._*
-⬡│▸*_follow our channel and share it https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l_*
-⬡│▸*keep using WhatsApp bots from Limule Solitarus_*
-┬│▸
+⬡│▸ *_Made With ❤️_*
+⬡│▸ *_Contact owner here https://wa.me/237698581946_*
+⬡│▸ *_follow our channel and share it https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l_*
+⬡│▸ *keep using WhatsApp bots from Limule Solitarus_*
+┬│▸ *credit to raphaelmdtech and venocyber for session id*
 │╰────────────···▸▸
 └───────────────···▸
 _Don't Forget To Give Star To My Repo_`
